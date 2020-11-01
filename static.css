@@ -1,0 +1,19 @@
+
+body {
+	margin: 0;
+	font-family: sans-serif;
+	color: #000000;
+	background-image: url("mountain.jpg");
+	background-size: 100%;
+	}
+	
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+	
+.right {
+  position: absolute;
+  right: 5px;
+  width: 100px;
+	}
