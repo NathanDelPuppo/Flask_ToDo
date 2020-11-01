@@ -1,0 +1,7 @@
+First Website.
+Made using Flask for backend, html and css for frontend.
+
+This is a ToDo list, you can put a text in the database, modify it or delete it, it displays the date also.
+I did a french version also but i am having trouble to do it without redoing everything.
+
+The datebase is sql lite.
